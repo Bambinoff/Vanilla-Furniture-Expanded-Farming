@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox.label>caixa de plantio</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Cultiva plantas em uma caixa de solo. Não requer energia para funcionar.</VFE_PlanterBox.description>
+
+  <VFE_Ecosystem.label>ecossistema artificial</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Cultiva plantas rapidamente em um ecossistema artificial e selado. Requer uma grande quantidade de energia para funcionar; as plantas irão morrer se a energia for cortada.\n\nContém uma lâmpada solar embutida para fornecer luz as plantas.</VFE_Ecosystem.description>
+
+
+</LanguageData>

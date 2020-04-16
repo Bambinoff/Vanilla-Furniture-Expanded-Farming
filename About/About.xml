@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>VFE - Farming (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradVFEFarming</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VFEFarming</packageId>
+            <displayName>Vanilla Furniture Expanded - Farming</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1957158779</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>VanillaExpanded.VFEFarming</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "Vanilla Furniture Expanded - Farming" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Furniture Expanded - Farming deve estar listado na lista de mods antes da tradução em português.</description>
+  </ModMetaData>

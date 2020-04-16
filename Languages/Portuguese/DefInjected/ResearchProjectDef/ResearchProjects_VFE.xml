@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+
+  <VFE_Res_AdvancedHydroponics.label>ecossistemas artificiais</VFE_Res_AdvancedHydroponics.label>
+  <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecossistemas artificiais, terrários altamente avançados que melhoram muito a hidroponia.</VFE_Res_AdvancedHydroponics.description>
+
+  <VFE_Res_Sprinkler.label>aspersores</VFE_Res_Sprinkler.label>
+  <VFE_Res_Sprinkler.description>Monte esquemas para um dispositivo que possa regar automaticamente os campos, aumentando a velocidade com que as culturas crescem.</VFE_Res_Sprinkler.description>
+
+
+  <!-- miscellaneous things which ought to have a tech but don't, i.e. the scarecrow and feeder -->
+
+  <VFE_Res_FarmingTechniques.label>técnicas agricolas</VFE_Res_FarmingTechniques.label>
+  <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agricolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações não consumidas.</VFE_Res_FarmingTechniques.description>
+
+
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarecrow -->
+
+  <VFE_Scarecrow.label>espantalho</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Uma figura humanóide feita de feno, vestida com roupas velhas para deter os animais em um grande raio. Pequenos animais terão muito medo de se aproximar.</VFE_Scarecrow.description>
+
+
+  <!-- Animal Feeder -->
+
+  <VFE_AnimalFeeder.label>alimentador de animais</VFE_AnimalFeeder.label>
+  <VFE_AnimalFeeder.description>Um comedouro. Os alimentos armazenados neste não se deteriorarão, mesmo se fora.</VFE_AnimalFeeder.description>
+
+
+  <!-- Sprinkler -->
+
+  <VFE_Sprinkler.label>aspersor de irrigação</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Um aspersor de água, proporcionando uma área ao seu redor com água. Aumenta o crescimento das plantas circundantes.</VFE_Sprinkler.description>
+  <VFE_Sprinkler_Blueprint.label>aspersor de irrigação(projeto)</VFE_Sprinkler_Blueprint.label>
+  <VFE_Sprinkler_Blueprint_Install.label>aspersor de irrigação(projeto)</VFE_Sprinkler_Blueprint_Install.label>
+  <VFE_Sprinkler_Frame.label>aspersor de irrigação(construção)</VFE_Sprinkler_Frame.label>
+  <VFE_Sprinkler_Frame.description>Um aspersor de água, proporcionando uma área ao seu redor com água. Aumenta o crescimento das plantas circundantes.</VFE_Sprinkler_Frame.description>
+
+
+</LanguageData>

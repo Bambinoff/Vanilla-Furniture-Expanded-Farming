@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VFEF_CommandMakeCompAreaDesc>Designe automaticamente a área especificada em torno deste {0}.</VFEF_CommandMakeCompAreaDesc> <!-- {0} is the parent building's label -->
+	<VFEF_CommandMakeCompAreaLabel>Selecione área de alimentação</VFEF_CommandMakeCompAreaLabel> <!-- {0} is the parent building's label -->
+	<VFEF_ScarecrowGizmo>Assustar animais da colônia</VFEF_ScarecrowGizmo>
+	<VFEF_ScarecrowGizmoText>Permita que escolha se esse espantalho deve fazer seus animais da colônia fugir</VFEF_ScarecrowGizmoText>
+
+</LanguageData>
